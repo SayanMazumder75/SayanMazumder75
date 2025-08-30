@@ -29,12 +29,12 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayan-mazumder&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-mazumder&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SayanMazumder75&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?userSayanMazumder75&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-mazumder&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMazumder75&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
@@ -42,8 +42,7 @@
 <!-- Pinned Projects -->
 ### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/sayan-mazumder/rental-vehicle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sayan-mazumder&repo=rental-vehicle&theme=tokyonight" /></a>
-  <a href="https://github.com/sayan-mazumder/dashboard-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sayan-mazumder&repo=dashboard-system&theme=tokyonight" /></a>
+  <a href="https://github.com/sayan-mazumder/rental-vehicle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SayanMazumder75&repo=Final_Year_Project&theme=tokyonight" /></a>
 </p>
 
 ---
@@ -59,4 +58,4 @@
 
 <!-- Footer -->
 <p align="center">✨ "Code is like humor. When you have to explain it, it’s bad." ✨</p>
-<p align="center">Made with ❤️ by <b>Sayan Mazumder</b></p>
+<p align="center">Made with by <b>Sayan Mazumder</b></p>
