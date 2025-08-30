@@ -5,23 +5,41 @@
 
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Sayan Mazumder</h1>
-<h3 align="center">💻 Passionate Full-Stack Developer | 🚀 Problem Solver | 🎯 Open Source Enthusiast</h3>
+<h3 align="center">💻 Aspiring Full-Stack Web Developer | 🚀 Problem Solver | 🎯 Open Source Enthusiast</h3>
+
+---
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SayanMazumder75&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SayanMazumder75?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/SayanMazumder75?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SayanMazumder75" alt="Visitors" />
+</p>
 
 ---
 
 <!-- About Me -->
 ### 👨‍💻 About Me
-- 🌱 I’m currently working with **Angular, React, and PHP**  
-- 🔭 Exploring new technologies and contributing to open-source  
+- 🌱 I’m currently learning **React and TailwindCSS**  
+- 🔭 I aspire to become a **Full-Stack Web Developer**  
 - 🎯 Goal: Build scalable applications & help the dev community  
 - ⚡ Fun fact: I love debugging more than coding sometimes!  
+
+---
+
+<!-- Currently Learning -->
+### 📚 Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,nodejs" />
+</p>
 
 ---
 
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,tailwindcss,html,css,php,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,js,tailwindcss,html,css,nodejs,git,github" />
 </p>
 
 ---
@@ -30,7 +48,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayanMazumder75&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?userSayanMazumder75&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanMazumder75&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
@@ -39,10 +57,18 @@
 
 ---
 
+<!-- GitHub Activity Graph -->
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayanMazumder75&theme=tokyo-night" alt="activity graph" />
+</p>
+
+---
+
 <!-- Pinned Projects -->
 ### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/sayan-mazumder/rental-vehicle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SayanMazumder75&repo=Final_Year_Project&theme=tokyonight" /></a>
+  <a href="https://github.com/SayanMazumder75/Final_Year_Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SayanMazumder75&repo=Final_Year_Project&theme=tokyonight" /></a>
 </p>
 
 ---
@@ -50,7 +76,7 @@
 <!-- Connect with Me -->
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sayan-mazumder-3b087331a/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sayan-mazumder-3b087331a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:sayanmazumder75@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
@@ -58,4 +84,4 @@
 
 <!-- Footer -->
 <p align="center">✨ "Code is like humor. When you have to explain it, it’s bad." ✨</p>
-<p align="center">Made with by <b>Sayan Mazumder</b></p>
+<p align="center">By <b>Sayan Mazumder</b></p>
