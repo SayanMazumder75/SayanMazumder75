@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/7JfqXxB/coding-freak-banner.png" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=220&section=header&text=Sayan%20Mazumder%20🌐&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="banner" />
 </p>
 
 <!-- Header -->
@@ -11,10 +11,8 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SayanMazumder75&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/SayanMazumder75?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/SayanMazumder75?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SayanMazumder75" alt="Visitors" />
 </p>
 
 ---
@@ -23,7 +21,7 @@
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **React and TailwindCSS**  
 - 🔭 I aspire to become a **Full-Stack Web Developer**  
-- 🎯 Goal: Build scalable applications & help the dev community  
+- 🎯 Goal: Build scalable, user-friendly web applications  
 - ⚡ Fun fact: I love debugging more than coding sometimes!  
 
 ---
@@ -83,5 +81,9 @@
 ---
 
 <!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer"/>
+</p>
+
 <p align="center">✨ "Code is like humor. When you have to explain it, it’s bad." ✨</p>
-<p align="center">By <b>Sayan Mazumder</b></p>
+<p align="center">Made with ❤️ by <b>Sayan Mazumder</b></p>
